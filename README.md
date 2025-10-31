@@ -14,3 +14,4 @@ My approach to work
 - Generalist > Specialist (usually)
 - Remote-first mindset
 
+<img src="https://raw.githubusercontent.com/aheckmann/aheckmann/refs/heads/main/sig-50.gif" />
