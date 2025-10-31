@@ -14,4 +14,8 @@ My approach to work
 - Generalist > Specialist (usually)
 - Remote-first mindset
 
-<img src="https://raw.githubusercontent.com/aheckmann/aheckmann/refs/heads/main/sig-50.gif" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aheckmann/aheckmann/refs/heads/main/sig-50-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aheckmann/aheckmann/refs/heads/main/sig-50.gif">
+  <img alt="signature" src="https://raw.githubusercontent.com/aheckmann/aheckmann/refs/heads/main/sig-50.gif" />
+</picture>
